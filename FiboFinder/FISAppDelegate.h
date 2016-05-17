@@ -12,4 +12,10 @@
  
  */
 
+-(NSArray *)arrayWithFibonacciSequenceToIndex:(NSUInteger)index;
+
+//-(NSMutableArray *)arrayWithFibonacciSequenceToIndex:(NSMutableArray*)sequence;
+
+
+
 @end
